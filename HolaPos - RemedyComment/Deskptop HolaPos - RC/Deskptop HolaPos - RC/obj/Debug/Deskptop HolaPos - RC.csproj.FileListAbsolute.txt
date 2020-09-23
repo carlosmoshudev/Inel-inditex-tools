@@ -1,0 +1,10 @@
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\bin\Debug\Deskptop HolaPos - RC.exe.config
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\bin\Debug\Deskptop HolaPos - RC.exe
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\bin\Debug\Deskptop HolaPos - RC.pdb
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\obj\Debug\Deskptop HolaPos - RC.csprojAssemblyReference.cache
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\obj\Debug\Deskptop_HolaPos___RC.Form1.resources
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\obj\Debug\Deskptop_HolaPos___RC.Properties.Resources.resources
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\obj\Debug\Deskptop HolaPos - RC.csproj.GenerateResource.cache
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\obj\Debug\Deskptop HolaPos - RC.csproj.CoreCompileInputs.cache
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\obj\Debug\Deskptop HolaPos - RC.exe
+T:\Repositorios\Inel-inditex-tools\HolaPos - RemedyComment\Deskptop HolaPos - RC\Deskptop HolaPos - RC\obj\Debug\Deskptop HolaPos - RC.pdb
